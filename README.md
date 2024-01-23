@@ -5,3 +5,6 @@ T.F.G 2024
 <table>
   <caption>Esto es la tabla</caption>
 </table>
+<?php
+echo "hola";
+?>
